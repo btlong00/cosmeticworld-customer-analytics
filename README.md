@@ -68,7 +68,7 @@ Customers ranked by cumulative profit contribution:
 11 segments from Recency/Frequency/Monetary scores. Largest: Promising (4,321), New Customers
 (2,776). Smallest, highest-value: Champions (155), Loyal (473).
 
-![RFM Segment Distribution](images/RFM_Analysis.png)
+![RFM Segment Distribution](images/RFM_Customer_Analysis.png)
 
 ### 3. Cohort Retention Analysis
 Retention was cut four ways — by acquisition month, Consumer vs Corporate, income group, and
