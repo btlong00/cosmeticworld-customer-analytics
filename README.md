@@ -20,11 +20,9 @@ Analysis to decide **what** gets bundled and cross-sold.
 ## 🎯 Project Overview
 
 This repository analyzes CosmeticWorld's transaction history (**51,290 line items**, 17,415
-customers) to support the "New Year Rejuvenation 2024" campaign. `01_abc_rfm_cohort_analysis`
+customers) to support the "New Year Rejuvenation 2024" campaign. `CosmeticWorld_Data_Driven_VIP_Segmentation`
 combines Pareto/ABC profitability ranking with RFM behavioral segmentation to shortlist 500 VIP
-gift recipients, then checks whether retention actually differs by segment. `02_market_basket_
-analysis` reuses the same cleaned data to mine product co-purchase patterns with Apriori and
-FP-Growth, recommending specific bundles.
+gift recipients, then checks whether retention actually differs by segment. `MBA_Market_Basket_Analysis` reuses the same cleaned data to mine product co-purchase patterns with Apriori and FP-Growth, recommending specific bundles.
 
 ---
 
